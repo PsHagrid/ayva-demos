@@ -1,1 +1,1 @@
-python3 tools/make_shop.py --base vape --slug qaser --name "Qaser Al Barsha" --area "Al Barsha" --kind "Vape & shisha shop" --open "3 AM" --time "30 min" --min 40 --fee 0 --color "#22375B" --phone 971553684719 --logo shops/qaser/logo.png --cover shops/qaser/cover.jpg
+python3 tools/make_shop.py --base vape --slug qaser --name "Qaser Al Barsha" --area "Al Barsha" --kind "Vape & shisha shop" --open "4:30 AM" --time "30 min" --min 40 --fee 0 --color "#22375B" --phone 971553684719 --logo shops/qaser/logo.png --cover shops/qaser/cover.jpg
