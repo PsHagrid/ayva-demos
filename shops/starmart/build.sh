@@ -1,0 +1,1 @@
+python3 tools/make_shop.py --base grocery --slug starmart --name "Star Mart" --area "JVC" --open "24/7" --time "20 min" --min 25 --fee 0 --color "#3A0E2E" --phone 971522001236 --logo shops/starmart/logo.png --cover shops/starmart/cover.png
